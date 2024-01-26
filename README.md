@@ -1,8 +1,1 @@
-This is the *QRCode Service* project I made myself.
-
-
-<p>This project utilizes QR codes — 2D barcodes that can store large amounts of data and are easily read by smartphones. Through this Spring Boot project, users can learn about the technology behind QR codes, generate them programmatically, and integrate them into a web service.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/385?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/385</a>
-
-Here's the link to the project: https://hyperskill.org/projects/385
-
-Check out my profile: https://hyperskill.org/profile/569100590
+QRCodeGeneratorAPI is a Spring Boot application that provides a RESTful API for creating QR codes. Users can specify the content, size, error correction level (L, M, Q, H), and image type (PNG, JPEG, GIF) for the generated QR code. I used the Zebra Crossing library for QR code generation and Spring Boot for API development, practicing integrating third-party libraries into a Spring application.
